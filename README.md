@@ -3,10 +3,10 @@ Snake Game using AVR Atmega32 microcontroller, 16x2 LCD, and a 4x4 KEYPAD
 
 KEYPAD BUTTONS:
 
-1,2,3,*
-4,5,6,/
-7,8,9,+
-=,0,c,-
+row 1: 1,2,3,*
+row 2: 4,5,6,/
+row 3: 7,8,9,+
+row 4: =,0,c,-
 
 
 
