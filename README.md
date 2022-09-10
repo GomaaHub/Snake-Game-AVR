@@ -1,6 +1,8 @@
 # Snake-Game-AVR
 Snake Game using AVR Atmega32 microcontroller, 16x2 LCD, and a 4x4 KEYPAD
 
+Project link: https://www.youtube.com/watch?v=bRelyKUu_8A
+
 KEYPAD BUTTONS:
 
 row 1: 1,2,3,*
